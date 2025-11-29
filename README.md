@@ -1,41 +1,51 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=👋+Привет!+Я+somp3;🎮+Геймер+и+Разработчик;🚀+Создаю+крутые+проекты;💫+Мечтаю+о+творчестве" alt="Animated Typing Header">
+</h1>
 
-</div>
+## 🎯 **Обо мне** ✨
+
+**Привет! Я somp3 - страстный геймер и начинающий разработчик.**  
+**Обожаю создавать прикольные вещи и воплощать творческие идеи в жизнь!** 💖
 
 ---
 
-### 🎯 **Мой мир увлечений**
+### 🎮 **Мои любимые игры**
 
 <div align="center">
 
 <table>
   <tr>
-    <td align="center" width="150">
-      <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="60" alt="CS:GO"/>
+    <td align="center" width="120">
+      <img src="https://cdn-icons-png.flaticon.com/512/731/731962.png" width="50" alt="CS2"/>
       <br/>
-      <sub><b>CS:GO</b></sub>
-      <br/>
-      <img src="https://img.shields.io/badge/🎮_Шутер-FF6B6B?style=flat-square"/>
+      <sub><b>CS2</b></sub>
     </td>
-    <td align="center" width="150">
-      <img src="https://media.giphy.com/media/3o72FfM5HJydzafgUE/giphy.gif" width="60" alt="Minecraft"/>
+    <td align="center" width="120">
+      <img src="https://cdn-icons-png.flaticon.com/512/732/732238.png" width="50" alt="Minecraft"/>
       <br/>
       <sub><b>Minecraft</b></sub>
-      <br/>
-      <img src="https://img.shields.io/badge/🏗️_Песочница-4ECDC4?style=flat-square"/>
     </td>
-    <td align="center" width="150">
-      <img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="60" alt="PUBG"/>
+    <td align="center" width="120">
+      <img src="https://cdn-icons-png.flaticon.com/512/2698/2698241.png" width="50" alt="PUBG"/>
       <br/>
       <sub><b>PUBG</b></sub>
-      <br/>
-      <img src="https://img.shields.io/badge/🎯_Баттл_Роял-45B7D1?style=flat-square"/>
     </td>
-    <td align="center" width="150">
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60" alt="Gaming"/>
+    <td align="center" width="120">
+      <img src="https://cdn-icons-png.flaticon.com/512/2946/2946744.png" width="50" alt="REPO"/>
+      <br/>
+      <sub><b>REPO</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn-icons-png.flaticon.com/512/3097/3097009.png" width="50" alt="Train Sim"/>
+      <br/>
+      <sub><b>Train Sim Word</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn-icons-png.flaticon.com/512/3612/3612569.png" width="50" alt="Games"/>
       <br/>
       <sub><b>И другие</b></sub>
-      <br/>
-      <img src="https://img.shields.io/badge/🎪_Разные-96CEB4?style=flat-square"/>
     </td>
   </tr>
 </table>
@@ -44,14 +54,5 @@
 
 ---
 
-### 🚀 **Мой подход к жизни**
+### 💻 **Моя деятельность**
 
-<div align="center">
-
-![Life Approach](https://media.giphy.com/media/kyLYXonQYYfwYDIeZl/giphy.gif)
-
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-
-<div align="center">
-  
-**💡 Креативное мышление**
