@@ -1,23 +1,29 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=👋+Привет!+Я+somp3;🎮+Геймер+и+Разработчик;🚀+Создаю+програмы+сайты;" alt="Animated Typing Header">
-</h1>
+# 👋 Привет! Я **KiraKi**
 
-## 🎯 **Обо мне** ✨
-
-**Привет! Я somp3 - страстный геймер и начинающий разработчик.**  
-**Обожаю создавать прикольные вещи и воплощать творческие идеи в жизнь!** 💖
+<div align="center">
+  
+  ![RGB Header](https://img.shields.io/badge/🌈-RGB_Portfolio-ff0000?style=for-the-badge&logo=starship&logoColor=white&labelColor=000000)
+  
+</div>
 
 ---
 
-### 🎮 **Мои любимые игры**
+## 🚀 Обо мне
 
 <div align="center">
-
-| **Игра** |                             
-|----------|
-| 🎯 **CS2**
-| ⛏️ **Minecraft**
-| 🏆 **PUBG**
-| 🔧 **REPO**
-| 🚂 **Train Sim World**             
-</div>
+  
+  ```python
+  class Developer:
+      def __init__(self):
+          self.name = "KiraKi"
+          self.role = "Full-Stack Developer"
+          self.experience = "многолетний опыт"
+          self.passion = "создание цифровых проектов"
+          
+      def specialties(self):
+          return ["Веб-технологии", "Python", "Игровая разработка"]
+          
+      def philosophy(self):
+          return "Качество кода + современный дизайн + интуитивный интерфейс"
+          
+me = Developer()
